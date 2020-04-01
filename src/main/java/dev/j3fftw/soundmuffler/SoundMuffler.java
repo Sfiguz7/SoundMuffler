@@ -8,7 +8,7 @@ import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class SoundMuffler extends JavaPlugin {
+public class SoundMuffler extends JavaPlugin implements SlimefunAddon {
 
     public static Category SOUND_MUFFLER;
 
